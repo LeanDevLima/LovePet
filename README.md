@@ -1,4 +1,4 @@
-# Projeto LOVEPET.COM - Planejamento Scrum (Atualizado)
+# Projeto LOVEPET.COM - Planejamento Scrum
 
 ## Visão Geral
 A LOVEPET.COM está desenvolvendo um aplicativo inovador para cuidados pet utilizando metodologia Scrum. O desenvolvimento será dividido em Sprints com entregas incrementais baseadas no Product Backlog priorizado, incluindo a nova funcionalidade de acompanhamento remoto.
