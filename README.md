@@ -28,7 +28,7 @@ A LOVEPET.COM está desenvolvendo um aplicativo inovador para cuidados pet utili
 | 3 | "Como usuário ocupado, quero pedir ração com entrega em casa" |
 | 3 | "Como amante de pets, quero interagir com outros donos em feed social" |
 | 4 | "Como cliente frequente, quero acumular pontos por serviços usados" |
-| 4 | "Como dono preocupado, quero acompanhar meu pet em tempo real durante o banho e tosa" (NOVA) |
+| 4 | "Como dono preocupado, quero acompanhar meu pet em tempo real durante o banho e tosa" |
 | 5 | "Como dono, quero rastrear meu pet via GPS em tempo real" |
 | 5 | "Como usuário, quero acionar veterinário via chat 24/7" |
 
