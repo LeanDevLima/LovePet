@@ -1,9 +1,9 @@
-# Projeto LOVEPET.COM - Planejamento Scrum
+# Projeto LOVEPET.COM - Planejamento Scrum (Atualizado)
 
 ## Visão Geral
-A LOVEPET.COM busca desenvolver um aplicativo inovador para cuidados pet utilizando metodologia Scrum. O desenvolvimento será dividido em Sprints com entregas incrementais baseadas no Product Backlog priorizado.
+A LOVEPET.COM está desenvolvendo um aplicativo inovador para cuidados pet utilizando metodologia Scrum. O desenvolvimento será dividido em Sprints com entregas incrementais baseadas no Product Backlog priorizado, incluindo a nova funcionalidade de acompanhamento remoto.
 
-## Product Backlog Inicial
+## Product Backlog Atualizado
 
 ### Funcionalidades Prioritárias
 1. **Cadastro de usuários e pets**
@@ -14,9 +14,10 @@ A LOVEPET.COM busca desenvolver um aplicativo inovador para cuidados pet utiliza
 6. **Comunidade social**
 7. **Programa de fidelidade**
 8. **Monitoramento remoto (IoT)**
-9. **Suporte de emergência**
+9. **Acompanhamento remoto no serviço de banho e tosa**
+10. **Suporte de emergência**
 
-## User Stories
+## User Stories Atualizadas
 
 | Prioridade | Descrição |
 |------------|-----------|
@@ -27,10 +28,11 @@ A LOVEPET.COM busca desenvolver um aplicativo inovador para cuidados pet utiliza
 | 3 | "Como usuário ocupado, quero pedir ração com entrega em casa" |
 | 3 | "Como amante de pets, quero interagir com outros donos em feed social" |
 | 4 | "Como cliente frequente, quero acumular pontos por serviços usados" |
+| 4 | "Como dono preocupado, quero acompanhar meu pet em tempo real durante o banho e tosa" (NOVA) |
 | 5 | "Como dono, quero rastrear meu pet via GPS em tempo real" |
 | 5 | "Como usuário, quero acionar veterinário via chat 24/7" |
 
-## Roadmap de Sprints
+## Roadmap de Sprints Atualizado
 
 ### Sprint 1 (MVP Básico)
 **Duração:** 2 semanas  
@@ -56,20 +58,21 @@ A LOVEPET.COM busca desenvolver um aplicativo inovador para cuidados pet utiliza
 - Feed social  
 **Entregável:** E-commerce integrado + rede social
 
-### Sprint 4 (Fidelização e Emergência)
+### Sprint 4 (Fidelização e Acompanhamento)
 **Duração:** 2 semanas  
-**Objetivo:** Retenção e segurança  
+**Objetivo:** Retenção e transparência nos serviços  
 **User Stories:**
 - Programa de pontos
-- Chat de emergência  
-**Entregável:** Sistema de fidelidade + suporte rápido
+- Acompanhamento remoto de banho e tosa
+**Entregável:** Sistema de fidelidade + streaming ao vivo de serviços
 
-### Sprint 5 (IoT)
+### Sprint 5 (IoT e Emergência)
 **Duração:** 2 semanas  
-**Objetivo:** Diferenciação tecnológica  
+**Objetivo:** Segurança e inovação  
 **User Stories:**
-- Monitoramento via coleira inteligente  
-**Entregável:** Integração com dispositivos IoT
+- Monitoramento via coleira inteligente
+- Chat de emergência  
+**Entregável:** Integração com dispositivos IoT + suporte veterinário 24h
 
 ## Processo Scrum
 
@@ -83,3 +86,11 @@ A LOVEPET.COM busca desenvolver um aplicativo inovador para cuidados pet utiliza
 - **Product Owner:** Prioriza backlog
 - **Scrum Master:** Facilita processos
 - **Dev Team:** Desenvolvimento
+
+## Grupo 9
+
+👨🏾‍💻 -► [Leanderson Lima](https://www.linkedin.com/in/leanderson-dias-de-lima/)
+
+👩🏾‍💻 -► [Letícia Machado](https://www.linkedin.com/in/let%C3%ADcia-machado-4456b031/)
+
+
